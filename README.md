@@ -53,3 +53,8 @@
    
    ![image](https://github.com/UNB-TME-6017-W24/final-project-submission-I-aashishM/assets/35104828/86b70e2d-7f9d-45ee-9664-05c2fdfcac04)
 
+- ****References:****
+	
+ 	- Yolov8 from Ultralytics : https://github.com/ultralytics/ultralytics
+ 	- Driving Monitoring Dataset : Ortega, J., Kose, N., Cañas, P., Chao, M.a., Unnervik, A., Nieto, M., Otaegui, O., & Salgado, L. (2020). DMD: A Large-Scale Multi-Modal Driver Monitoring Dataset for Attention and Alertness Analysis. In: A. Bartoli & A. Fusiello (eds), Computer Vision -- ECCV 2020 Workshops (pg. 387–405). Springer International Publishing.
+  - Roboflow Dataset : https://universe.roboflow.com/drivermonitoring/driver-atention/dataset/4
