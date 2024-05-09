@@ -1,0 +1,11 @@
+names:
+- no_seatbelt
+- mobile
+- inattentive
+- seatbelt
+- drowsiness
+- drinking
+nc: 6
+test: /Users/aashishmamgain/Downloads/TME/Project/ADAMS/Data/training/test/images
+train: /Users/aashishmamgain/Downloads/TME/Project/ADAMS/Data/training/train/images
+val: /Users/aashishmamgain/Downloads/TME/Project/ADAMS/Data/training/val/images
