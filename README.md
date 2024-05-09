@@ -39,7 +39,7 @@
 ![image](https://github.com/UNB-TME-6017-W24/final-project-submission-I-aashishM/assets/35104828/1978c7f2-2967-44c8-8131-6ab1a4d3dde9)
 
 
-- ****Model Output on Public Dataset:**** Test trained model on a publicly available dataset [Driving Monitoring Dataset](https://dmd.vicomtech.org/) from [Roboflow website](https://universe.roboflow.com/drivermonitoring/driver-atention/dataset/4), as mentioned in the notebook, to further validate its performance.
+- ****Model Output on Public Dataset:**** Evaluated a trained model on a publicly available dataset [Driving Monitoring Dataset](https://dmd.vicomtech.org/) from [Roboflow website](https://universe.roboflow.com/drivermonitoring/driver-atention/dataset/4), as mentioned in the notebook, to further validate its performance.
 
 - ****Export:**** Convert trained PyTorch model to ONNX for deployment on edge devices, as mentioned in notebook and final report.
 
