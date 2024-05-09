@@ -44,3 +44,12 @@
 - ****Export:**** Convert trained PyTorch model to ONNX for deployment on edge devices, as mentioned in notebook and final report.
 
 - ****Integration with Downstream Pipeline:****
+
+	- Implement the downstream pipeline for classifying distraction levels and assigning scores to different classes.
+	- Grouped classes into super-classes and processing the output accordingly.
+   ![image](https://github.com/UNB-TME-6017-W24/final-project-submission-I-aashishM/assets/35104828/ceb9552f-b53f-4d87-a05e-38f57d51b7ae)
+
+	- Save the results, like warning status, in a CSV file as outlined.
+   
+   ![image](https://github.com/UNB-TME-6017-W24/final-project-submission-I-aashishM/assets/35104828/86b70e2d-7f9d-45ee-9664-05c2fdfcac04)
+
