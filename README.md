@@ -26,9 +26,10 @@
 - Follow the steps outlined for configuring and training the model. Ensure all paths to data directories are correctly set.
 - Monitor the training process.
 
-  ![image](https://github.com/UNB-TME-6017-W24/final-project-submission-I-aashishM/assets/35104828/d44356cd-8bec-4180-8761-96c0a7d696a3)
-![image](https://github.com/UNB-TME-6017-W24/final-project-submission-I-aashishM/assets/35104828/9aeb3b6e-df7f-4fa9-8d72-996b0bc8ddd6)
-![image](https://github.com/UNB-TME-6017-W24/final-project-submission-I-aashishM/assets/35104828/fa218383-b4f0-4125-8957-2324fc0f8eeb)
+![results](https://github.com/I-aashishM/Real-time-Driver-Behavior-Monitoring/assets/35104828/8b6218fa-844c-4589-87b3-b7e657edb06a)
+![P_curve](https://github.com/I-aashishM/Real-time-Driver-Behavior-Monitoring/assets/35104828/b5aa8a42-28c2-4ba4-b19d-8e24e1580a8b)
+![R_curve](https://github.com/I-aashishM/Real-time-Driver-Behavior-Monitoring/assets/35104828/36337e36-34ea-4750-b727-b8726777dbc5)
+
 
 
 ### Inference ###
